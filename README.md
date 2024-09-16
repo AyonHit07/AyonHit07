@@ -1,13 +1,8 @@
-
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1035981275196047401/1082383442718773318/1671189244148.jpg" width=200 />
-</div>
-
 <div id="hey" align="center">
   <h1>
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
     Hi!
     I'm Ayon Bhattacharya
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
   </h1>
 </div>
 
