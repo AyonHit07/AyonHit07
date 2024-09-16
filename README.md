@@ -8,9 +8,8 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at Haldia Institute of Technology, Halida West Bengal.\
 🌱 &nbsp;I'm on track for learning more about Frontend and Backend Technologies.\
- &✈️🎵nbsp;In my free time, I love travelling and listinig music.\
+ ✈️🎵&nbsp;In my free time, I love travelling and listening music.\
 ✉️ &nbsp;You can shoot me an email at ayonhit07@gmail.com! .\
-📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://www.canva.com/design/DAGQ42ai1pM/OKWYTjl8wJOWRQ4WvdDSRQ/view?utm_content=DAGQ42ai1pM&utm_campaign=designshare&utm_medium=link&utm_source=editor)) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -48,7 +47,7 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Credits: [Ayon Bhattacharya](https://github.com/AyonHit07)
 
 Last Edited on: 11/12/2020
 <!--
