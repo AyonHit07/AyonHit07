@@ -19,7 +19,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at Haldia Institute of Technology, Halida West Bengal.\
 🌱 &nbsp;I'm on track for learning more about Frontend and Backend Technologies.\
- ✈️🎵&nbsp;In my free time, I love travelling and listening music.\
+✈️🎵 &nbsp;In my free time, I love travelling and listening music.\
 ✉️ &nbsp;You can shoot me an email at ayonhit07@gmail.com!.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
