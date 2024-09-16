@@ -9,7 +9,7 @@
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at Haldia Institute of Technology, Halida West Bengal.\
 🌱 &nbsp;I'm on track for learning more about Frontend and Backend Technologies.\
  ✈️🎵&nbsp;In my free time, I love travelling and listening music.\
-✉️ &nbsp;You can shoot me an email at ayonhit07@gmail.com! .\
+✉️ &nbsp;You can shoot me an email at ayonhit07@gmail.com! .
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -28,9 +28,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AyonHit07">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyonHit07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyonHit07&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -49,7 +49,7 @@
 -----
 Credits: [Ayon Bhattacharya](https://github.com/AyonHit07)
 
-Last Edited on: 11/12/2020
+
 <!--
 **AyonHit07/AyonHit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
