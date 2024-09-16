@@ -2,12 +2,12 @@
   <h1>
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
     Hi!
-    I'm Ayon Bhattacharya
+    I'm Ayon 
   </h1>
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:alishandev@proton.me">
+  <a href="mailto:ayonhit07@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
   <a href="https://t.me/al3shan">
