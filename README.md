@@ -6,13 +6,8 @@
   </h1>
 </div>
 
-<div id="badges" align="center">
-  <a href="mailto:ayonhit07@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
-</div>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Ayon -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -48,7 +43,9 @@
 ### ⚙️ &nbsp;Contact Me
 <p align='left'>
   <a href="https://www.linkedin.com/in/ayon-bhattacharya-085439263/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;        
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:ayonhit07@gmail.com"></a>&nbsp;&nbsp;
+  <a href="mailto:ayonhit07@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
+  </a>
  </p>
 
 -----
